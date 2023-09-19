@@ -2,7 +2,8 @@
 
 ## Project Highlights
 
-- **Description:** This project involves creating a custom shell.
+- **Description:** This project involves creating a custom shell. (works only on linux)
+  
 - **Features:**
   - Displays a prompt when waiting for a new command.
   - Implements a working history.
