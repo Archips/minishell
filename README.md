@@ -26,5 +26,5 @@
 
 ## Authors
 
-- [Archibald Thirion](https://github/Archips)
-- [Clement Vidon](https://github/clemedon) 
+- [Archibald Thirion](https://github.com/Archips)
+- [Clement Vidon](https://github.com/clemedon)
