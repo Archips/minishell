@@ -27,4 +27,4 @@
 ## Authors
 
 - [Archibald Thirion](https://github.com/Archips)
-- [Clement Vidon](https://github.com/clemedon)
+- [Clément Vidon](https://github.com/clemedon)
